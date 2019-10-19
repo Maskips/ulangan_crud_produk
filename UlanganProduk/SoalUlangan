@@ -1,0 +1,13 @@
+buat halaman home (Free Design)
+Dan halaman cart -> CRUD
+
+table cart
+id
+nama produk -> Input & Output
+Kategori produk -> select (5 item) Input & Output
+Junlah produk -> Input & Output
+Harga Produk -> Input & Output
+Deskripsi -> Input & Output
+sub_total (jumlah*harga) -> Output
+
+Total Pembayaran(count(sub_total)) -> Output tidak masuk db
